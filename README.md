@@ -1,7 +1,7 @@
 # a--search-smileys
-# Implementation of A* search on predefined maze.
+## Implementation of A* search on predefined maze.
 
-## Instructions
+### Instructions
 The user presses the run button in an IDE (this was tested in Eclipse) to begin the program.
 The user then follows the instructions in the IDE's console and inputs either 1 or 2.
   * Entering 1 starts the original maze
@@ -15,4 +15,4 @@ The user then views the maze and can try out the different starting points (indi
 The user must then try all the possible starting points to determine the winner, which is the starting point with the shortest path. 
 After all combinations of starting points have been tried the console displayed the winner by indicating the path's starting position and the path length.
 
-* not really optimized, need to review *
+_not really optimized, need to review_
